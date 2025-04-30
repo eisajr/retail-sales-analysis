@@ -34,5 +34,7 @@ This project analyzes a retail sales funnel using SQL, focusing on understanding
 - Weekly funnel performance
 - Funnel conversion by product category
 
+> View the SQL code here: [`sales_analysis.sql`](./sales_analysis.sql)
 
+## 📁 File Structure
 
